@@ -21,8 +21,10 @@ To view the webpage, simply open the index.html file in a web browser. Clicking 
 The layout is designed to be responsive and adapt to different screen sizes. Media queries are used to adjust the font size of the title based on the screen width.
 
 ### Screenshots
-<img src="https://github.com/parveenheena/Travelopia/assets/147697958/a844af31-ec60-4f3c-8bf3-eb23ffe5e107" />
+
 <img src= "https://github.com/parveenheena/Travelopia/assets/147697958/c3f320ea-c8a9-4c45-af49-fa449ce46fa8" />
+
+<img src="https://github.com/parveenheena/Travelopia/assets/147697958/a844af31-ec60-4f3c-8bf3-eb23ffe5e107" />
 
 ### Deployed Link
 
