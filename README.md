@@ -14,6 +14,22 @@ This project showcases a fluid and responsive web design layout using HTML, CSS,
 - CSS: Styling for the webpage is defined in styles.css.
 - JavaScript: Functionality for the popup box is implemented in script.js.
 
+### Deployed Link
+
+https://travelopia123.vercel.app/
+
+## Installation & Getting started
+Detailed instructions on how to install, configure, and get the project running. 
+
+```bash
+git clone https://github.com/parveenheena/Travelopia.git
+cd Travelopia
+
+--> Navigate to the project directory and open the index.html file in your preferred web browser.
+
+```
+<br>
+
 ### Usage
 To view the webpage, simply open the index.html file in a web browser. Clicking the "Let's explore" button will display the popup box with the message "Hello World!". Clicking the "OK" button in the popup will close it.
 
@@ -26,9 +42,7 @@ The layout is designed to be responsive and adapt to different screen sizes. Med
 
 <img src="https://github.com/parveenheena/Travelopia/assets/147697958/a844af31-ec60-4f3c-8bf3-eb23ffe5e107" />
 
-### Deployed Link
 
-https://travelopia123.vercel.app/
 
 ### Credits
 Author: Heena Parveen
